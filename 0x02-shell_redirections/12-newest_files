@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "root" /etc/passwd
+ls -t1 | head -n 10
